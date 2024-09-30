@@ -20,4 +20,12 @@ Procedure
 
 Execution Program 
 
+https://github.com/swex1/DegenToken-games-smart-contract-/blob/2a9c916a25c4f916bd3f8e221df2949f457d7dfd/degenToken.sol
+
+Authors 
+Sweta singh 
+singhsweta2911@gmail.com
+
+
+
   
